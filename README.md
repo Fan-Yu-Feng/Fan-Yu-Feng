@@ -4,8 +4,20 @@
 ![68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif)
 
 ### 🤺 About Me
+<p>&emsp;&emsp;Hi，你好，我是yufeng。</p>
+<p>&emsp;&emsp;热爱编程、读书、音乐、运动。</p>
+<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者、架构师。</p>
+<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
 ### 🏢 Work Experience
+
+- [深圳铂科新材料有限公司](http://www.pocomagnetic.com/) &emsp; 📌 2021-03 —— 2021-09
+  - 工作岗位：软件工程师
+  - 工作内容：后台开发、杂活
+
+- [深圳中智信融资担保有限公司](https://www.11467.com/qiye/45187986.htm) &emsp; 📌 2021-10 —— 至今
+  - 工作岗位：软件工程师
+  - 工作内容：基础架构应用开发
 
 
 
