@@ -20,7 +20,7 @@
   - 工作内容：基础架构应用开发
 
 
-- [迪阿股份有限公司]([https://www.11467.com/qiye/45187986.htm](https://www.darryringgroup.com/)) &emsp; 📌 2024-07 —— 至今
+- [迪阿股份有限公司](https://www.darryringgroup.com)&emsp; 📌 2024-07 —— 至今
   - 工作岗位：全栈开发
   - 工作内容：全栈开发
 
